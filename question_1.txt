@@ -1,0 +1,1 @@
+we can write "physics" and "wallah" in two different lines by using \n or endl after the first cout command

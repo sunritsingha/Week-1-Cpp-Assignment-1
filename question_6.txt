@@ -1,0 +1,4 @@
+the names that can be a variable name is:
+01Pwskills
+_FLOAT
+FLOAT
